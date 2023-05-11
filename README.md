@@ -19,3 +19,19 @@ c.1 Deposit 1 ether as wei
 <img width="296" alt="Screenshot 2023-05-12 at 7 25 57 am" src="https://github.com/TroyCassels/Module-20---Solidity/assets/119761709/e98bf697-5239-4a00-bd35-760154f7acd2">
 
 c.2 Deposit 10 ether as wei
+
+<img width="294" alt="Screenshot 2023-05-12 at 7 27 32 am" src="https://github.com/TroyCassels/Module-20---Solidity/assets/119761709/c6e79eaf-e4a6-4454-8099-d351853849d6">
+
+c.3 Deposit 5 ether
+
+<img width="311" alt="Screenshot 2023-05-12 at 7 28 29 am" src="https://github.com/TroyCassels/Module-20---Solidity/assets/119761709/2ede6d35-8a7f-404b-bb60-52517db8c7db">
+
+d.1 Withdraw 5 ether into `accountOne`
+
+<img width="309" alt="Screenshot 2023-05-12 at 7 30 45 am" src="https://github.com/TroyCassels/Module-20---Solidity/assets/119761709/83e992ed-9d29-4fa6-89b9-754c85692f2d">
+
+d.2 Withdraw 10 ether into `accountTwo`
+
+<img width="303" alt="Screenshot 2023-05-12 at 7 33 46 am" src="https://github.com/TroyCassels/Module-20---Solidity/assets/119761709/be7e0824-d865-4aca-83d6-eecf0ba57766">
+
+
