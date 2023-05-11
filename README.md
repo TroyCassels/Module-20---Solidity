@@ -32,6 +32,6 @@ d.1 Withdraw 5 ether into `accountOne`
 
 d.2 Withdraw 10 ether into `accountTwo`
 
-<img width="303" alt="Screenshot 2023-05-12 at 7 33 46 am" src="https://github.com/TroyCassels/Module-20---Solidity/assets/119761709/be7e0824-d865-4aca-83d6-eecf0ba57766">
-
+<img width="281" alt="Screenshot 2023-05-12 at 7 33 27 am" src="https://github.com/TroyCassels/Module-20---Solidity/assets/119761709/734905ac-1c00-44de-a563-9919ee79ce7d">
+<img width="294" alt="Screenshot 2023-05-12 at 7 35 14 am" src="https://github.com/TroyCassels/Module-20---Solidity/assets/119761709/fb9af23e-4274-42c7-a709-e0ef73747af8">
 
